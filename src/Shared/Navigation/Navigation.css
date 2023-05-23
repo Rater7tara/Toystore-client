@@ -1,0 +1,27 @@
+
+.logo{
+    width: 5rem;
+    height: 5rem;
+}
+.nav-div backgroundImage{
+    height: 50vh;
+}
+.user-img{
+    width: 3rem;
+}
+
+@media screen and (max-width:576px){
+ .logo{
+    width: 2rem;
+    height: 2rem;
+ }
+ .user-img{
+    width: 2rem;
+}
+
+}
+
+@media screen and (min-width:577px) and (max-width: 992px){
+    
+}
+

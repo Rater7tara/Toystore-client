@@ -1,0 +1,11 @@
+.color{
+    color: #a855f7;
+}
+.color:hover{
+    color: #84cc16;
+}
+
+.cart-img{
+    height: 56vh;
+    width: 80%;
+}

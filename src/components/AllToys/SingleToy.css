@@ -1,0 +1,11 @@
+.single-img{
+    height: 90vh;
+    width: 40vw;
+}
+.card-single{
+    height: 60vh;
+    width: 40vw;
+    justify-items: center;
+    align-items: center;
+    display: flex;
+}
