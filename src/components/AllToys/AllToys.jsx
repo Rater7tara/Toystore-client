@@ -19,7 +19,7 @@ const AllToys = () => {
     const handleSearch = () => {
         fetch(`https://toy-server-ec7c-du1uro2ur-rater7tara.vercel.app/allToys/${search}`)
         .then((res) => res.json())
-        .then((data) => setGetToys(data));
+        .then((data) => setToy(data));
     };
 
 
