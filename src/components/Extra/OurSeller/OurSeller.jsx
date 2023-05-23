@@ -7,7 +7,7 @@ const OurSeller = () => {
             <h1 className='text-6xl text-lime-500 font-bold text-center mt-14'>Our Professional Sellers</h1>
             <div className='grid md:grid-cols-2  lg:grid-cols-3 gap-4 mt-6 p-14'>
 
-                <div className="card lg:w-96 sm:w-full bg-base-100 shadow-xl">
+                <div className="card lg:w-96 sm:w-full shadow-xl">
                     <figure><img className='seller-img max-w-xs transition duration-300 ease-in-out hover:shadow-lg dark:hover:shadow-black/30' src={"https://i.ibb.co/HtnKnMp/portrait-young-handsome-man-jean-shirt-smiling-with-crossed-arms.jpg"} alt="Shoes" /></figure>
                     <div className="card-body">
                         <h2 className="card-title">
